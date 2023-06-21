@@ -1,0 +1,9 @@
+{
+    "outboundTransfer": 25,
+    "merchroTransfer": 0,
+    "splitFeeOutboundTransfer": 25,
+    "splitFeeMerchroTransfer": 0,
+    "splitCreation": 2000,
+    "cardCreation": 3,
+    "cardWithdrawal": 3,
+  }
