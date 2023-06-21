@@ -9,4 +9,4 @@
     "GBP/GHS": { "buy": 0.2, "sell": 0.17 },
     "GBP/EUR": { "buy": 0.95, "sell": 0.91 },
     "GHS/EUR": { "buy": 25, "sell": 24 },
-};
+}
