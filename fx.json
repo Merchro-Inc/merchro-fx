@@ -1,0 +1,12 @@
+{
+    "NGN/USD": { "buy": 790, "sell": 740 },
+    "NGN/GBP": { "buy": 1000, "sell": 940 },
+    "NGN/EUR": { "buy": 890, "sell": 820 },
+    "NGN/GHS": { "buy": 705, "sell": 695 },
+    "USD/GBP": { "buy": 1.5, "sell": 1.2 },
+    "USD/EUR": { "buy": 1.3, "sell": 1.1 },
+    "USD/GHS": { "buy": 0.3, "sell": 0.25 },
+    "GBP/GHS": { "buy": 0.2, "sell": 0.17 },
+    "GBP/EUR": { "buy": 0.95, "sell": 0.91 },
+    "GHS/EUR": { "buy": 25, "sell": 24 },
+};
