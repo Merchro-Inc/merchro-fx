@@ -1,7 +1,7 @@
 {
     "outboundTransfer": 25,
     "merchroTransfer": 0,
-    "splitFeeOutboundTransfer": 25,
+    "splitFeeOutboundTransfer": 0,
     "splitFeeMerchroTransfer": 0,
     "splitCreation": 2000,
     "cardCreation": 3,
