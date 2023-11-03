@@ -4,6 +4,8 @@
     "splitFeeOutboundTransfer": 0,
     "splitFeeMerchroTransfer": 0,
     "splitCreation": 2000,
+    "domTransfer": 3,
+    "wireTransfer": 3,
     "cardCreation": 3,
     "cardWithdrawal": 3
 }
