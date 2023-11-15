@@ -1,9 +1,9 @@
 {
-    "outboundTransfer": 25,
+    "outboundTransfer": 0,
     "merchroTransfer": 0,
     "splitFeeOutboundTransfer": 0,
     "splitFeeMerchroTransfer": 0,
-    "splitCreation": 2000,
+    "splitCreation": 0,
     "domTransfer": 3,
     "wireTransfer": 3,
     "cardCreation": 3,
